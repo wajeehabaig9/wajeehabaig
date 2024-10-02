@@ -1,3 +1,4 @@
+![logo](https://media.licdn.com/dms/image/v2/D4E16AQEmau1RdwOptw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726929308724?e=1733356800&v=beta&t=Uq7nTtEAVGth71BpaMPR55JMBB4OYueGqM0E9_1PDS8)
 <h1 align="center">Hi 👋, I'm Wajeeha Baig</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding_image" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif" />
